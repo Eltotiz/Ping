@@ -1,5 +1,5 @@
 # Ping
- Ping "Personalizado" echo desde shell.
+ Ping "Personalizado" hecho desde bash.
 # Imagen 1
  Añadiendo la informacion.
 ![alt tag](https://media.discordapp.net/attachments/776837293934641152/897126409586225292/1633961356786.png)
